@@ -14,6 +14,13 @@ Some of the content will be not user visible/browsable. As the current approach 
 
 Accessing file as raw:
 https://raw.githubusercontent.com/gergovassilev/portfolio_public/main/docs/index.html
+
 Accessing same file as normal (autonegotiate) file:
+
 https://gergovassilev.github.io/portfolio_public/index.html
+
 https://gergovassilev.github.io/portfolio_public/
+
+
+https://gergovassilev.github.io/portfolio_public/job_appl/
+
