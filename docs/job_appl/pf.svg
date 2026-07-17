@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="150px" width="200px">
+<!--body  -->
+<polyline points="50,40 170,40 170,120 50,120 50,40  " style="fill: beige;stroke:black;stroke-width:2;"/>
+
+<!-- left side -->
+<polyline points="50,40 50,120  30,110 30,30 50,40" style="fill: bisque;stroke:black;stroke-width:2;"/>
+
+<!-- top side -->
+<polyline points="50,40 30,30 150,30 170,40 50,40" style="fill: burlywood;stroke:black;stroke-width:2;"/>
+
+<!-- handle -->
+<polyline points="70,35 70,20 120,20 120,35 " style="fill: none;stroke:black;stroke-width:4;"/>
+
+<!-- triangle -->
+<polyline points="60,90 90,60 120,90 60,90 " style="fill: red;fill-opacity: 0.6;stroke:red;stroke-width:4;"/>
+
+<!-- square -->
+<polyline points="100,100 100,50 150,50 150,100 100,100  " style="fill: green;fill-opacity: 0.5;stroke:green;stroke-width:4;"/>
+
+
+<!-- circle -->
+<circle xmlns="http://www.w3.org/2000/svg" cx="65" cy="60" r="12" style="fill: blue;fill-opacity: 0.3;stroke:blue;stroke-width: 6;"/>
+ <text x="37" y="145" class="txt">Portfolio</text>
+  <style xmlns="http://www.w3.org/2000/svg">
+    .txt { font: italic 2em sans-serif; }
+
+  </style>
+
+
+</svg>

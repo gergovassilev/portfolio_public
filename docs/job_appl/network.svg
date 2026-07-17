@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="150px" width="200px">
+<!-- lines -->
+<!-- line top right to center -->
+<polyline points="145,50 115,75  " style="fill: none;stroke:black;stroke-width:4;"/>
+    
+<!-- line top right to out -->
+<polyline points="170,40 200,20  " style="fill: none;stroke:black;stroke-width:4;"/>
+
+<!-- line center to top middle -->
+<polyline points="100,60 105,45  " style="fill: none;stroke:purple;stroke-width:4;"/>
+  
+<!-- line top left to top middle -->
+<polyline points="45,40 100,35  " style="fill: none;stroke:green;stroke-width:4;"/>
+
+<!-- line top left to middle left -->
+<polyline points="30,55 35,75  " style="fill: none;stroke:green;stroke-width:4;"/>
+
+<!-- line middle leftto center -->
+<polyline points="50,85 65,85  " style="fill: none;stroke:green;stroke-width:4;"/>
+
+<!-- circles -->
+<!-- circle center -->
+<circle xmlns="http://www.w3.org/2000/svg" cx="90" cy="80" r="25" style="fill: black;fill-opacity: 0.7;stroke:blue;stroke-width: 6;"/>
+
+<!-- circle top right -->
+<circle xmlns="http://www.w3.org/2000/svg" cx="160" cy="50" r="15" style="fill: red;fill-opacity: 0.3;stroke:black;stroke-width: 3;"/>    
+    
+<!-- line top right to bottom right -->
+<polyline points="160,60 160,80  " style="fill: none;stroke:black;stroke-width:4;"/>
+
+<!-- circle top middle-->
+<circle xmlns="http://www.w3.org/2000/svg" cx="115" cy="30" r="15" style="fill: green;fill-opacity: 0.9;stroke:red;stroke-width: 9;"/>
+
+<!-- circle top left -->
+<circle xmlns="http://www.w3.org/2000/svg" cx="25" cy="35" r="20" style="fill: blue;fill-opacity: 0.9;stroke:teal;stroke-width: 5;"/>
+
+<!-- circle bottom left-->
+<circle xmlns="http://www.w3.org/2000/svg" cx="35" cy="85" r="15" style="fill: yellow;fill-opacity: 0.9;stroke:black;stroke-width: 5;"/>
+
+<!-- circle bottom right-->
+<circle xmlns="http://www.w3.org/2000/svg" cx="165" cy="100" r="20" style="fill: blue;fill-opacity: 0.3;stroke:blue;stroke-width: 3;"/>
+
+
+    
+ <text x="37" y="145" class="txt">Network</text>
+  <style xmlns="http://www.w3.org/2000/svg">
+    .txt { font: italic 2em sans-serif; }
+
+  </style>
+
+
+</svg>

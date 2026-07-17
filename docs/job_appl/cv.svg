@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="150px" width="200px">
+<!-- lines -->
+
+<polyline points="130,100 130,50 180,50 180,100 130,100  " style="fill: beige;fill-opacity: 0.5;stroke:beige;stroke-width:4;"/>
+
+<polyline points="160,80 160,60 170,60 170,80 160,80  " style="fill: green;fill-opacity: 0.5;stroke:blue;stroke-width:1;"/>
+
+<polyline points="1,1 1,150 200,150 200,1 1,1  " style="fill: none;stroke:green;stroke-width:1em;"/>
+
+<!-- text -->   
+ <text x="15" y="125" class="txt">CV</text>
+  <style xmlns="http://www.w3.org/2000/svg">
+    .txt { font: italic 6em sans-serif; }
+
+  </style>
+
+
+</svg>
