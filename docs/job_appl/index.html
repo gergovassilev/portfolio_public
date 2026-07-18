@@ -6,6 +6,18 @@
     <div>Temporary placeholder. Please use the current copy: <br> <a href="https://demoandtest.website/job_appl/" target="_blank" rel="noopener noreferrer"> https://demoandtest.website/job_appl/</a> </div>
 <div> Or open my Linkedin profile: <br> <a href="https://www.linkedin.com/in/gergo-vassilev-579bb13a1/"> https://www.linkedin.com/in/gergo-vassilev-579bb13a1/ </a></div>
 
+<div id="menu"></div>
+<div id="footer"></div>
+
+<script>
+async function loadPart(id, url) {
+  const html = await fetch(url).then(r => r.text());
+  document.getElementById(id).innerHTML = html;
+}
+
+loadPart("menu", "https://gergovassilev.github.io/portfolio_public/helpers/menu.html");
+loadPart("footer", "https://gergovassilev.github.io/portfolio_public/helpers/footer.html");
+</script>
     
   </body>
 </html>
