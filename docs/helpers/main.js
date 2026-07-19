@@ -15,6 +15,6 @@ async function loadPart(id, url) {
 }
 
 
-
+loadPart("header", "/portfolio_public/helpers/header.html");
 loadPart("menu", "https://gergovassilev.github.io/portfolio_public/helpers/menu.html");
 loadPart("footer", "https://gergovassilev.github.io/portfolio_public/helpers/footer.html");
